@@ -46,6 +46,11 @@
                             Console.WriteLine("Opção inválida");
                             break;
                     }
+                     break;
+                
+                    case "n":
+                    Console.WriteLine(cb)
+                    break;
 
                 default:
                     Console.WriteLine("Opção inválida");
